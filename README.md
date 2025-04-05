@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalrahman1723" alt="abdalrahman1723" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter framework,software engineering**
+- 🌱 I’m currently working with **Flutter framework,software engineering**
 
 - 📫 How to reach me **abdalrahman.alaa.eldin@gmail.com**
 
