@@ -55,6 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahman1723&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahman1723" alt="GitHub Streak" />
-</p>
